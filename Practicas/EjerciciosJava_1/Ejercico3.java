@@ -6,5 +6,5 @@ public class Ejercico3 {
        int area = lado * lado;
        System.out.println(area);
 
-    }//ddd
+    }
 }
