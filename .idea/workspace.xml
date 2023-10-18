@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14884f20-85ca-4ff3-a902-803769e0ceb3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="14884f20-85ca-4ff3-a902-803769e0ceb3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/noseq/IdeaProjects/Programacion_1DAW/Practicas",
+    "last_opened_file_path": "C:/Users/noseq/IdeaProjects/Programacion_1DAW/Practicas/EjerciciosJava_1",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -53,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696969619013</updated>
       <workItem from="1697465043832" duration="42000" />
+      <workItem from="1697639171140" duration="73000" />
     </task>
     <servers />
   </component>
