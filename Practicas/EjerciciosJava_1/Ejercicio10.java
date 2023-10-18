@@ -14,4 +14,6 @@ public class Ejercicio10 {
         int resta = numero1 - numero2;
         int multi = numero1 * numero2;
         int division = numero1 / numero2;
-        System.out.println("La suma es "+ suma + " La resta es "+ resta +" La multiplicacion es "+ multi +" La division es "+ division );
+        System.out.println("La suma es "+ suma + " La resta es "+ resta +" La multiplicacion es " + multi +" La division es "+ division );
+    }
+}
