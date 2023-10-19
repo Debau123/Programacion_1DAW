@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Ejercicio16 {
     public static void main(String[] args) {
         double nota;
@@ -9,14 +10,13 @@ public class Ejercicio16 {
             System.out.println("Has sacado un muy deficiente");
         } else if (nota < 5) {
             System.out.println("Has sacado un insuficiente");
-        } else if (nota <=6){
+        } else if (nota <= 6) {
             System.out.println("Has sacado un bien");
         } else if (nota < 9) {
             System.out.println("Has sacado un notable");
-        } else if (nota <= 10){
+        } else if (nota <= 10) {
             System.out.println("Has sacado un Excelente");
-        }
-        else
+        } else
             System.out.println("Nota no valida");
     }
 }

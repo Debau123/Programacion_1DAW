@@ -9,15 +9,13 @@ public class Ejercicio15 {
         int Segundo_numero = Entrada.nextInt();
         System.out.println("Dime el tecer numero: ");
         int Tercero_numero = Entrada.nextInt();
-    if (Primer_numero > Segundo_numero && Primer_numero > Tercero_numero){
-        System.out.println(Primer_numero+ " es el mayor numero.");
-    }
-    else if (Segundo_numero > Primer_numero && Segundo_numero > Tercero_numero) {
-        System.out.println(Segundo_numero + "  es el mayor numero");
-    }
-    else{
-        System.out.println(Tercero_numero+ "  es el mayot numero");
-    }
+        if (Primer_numero > Segundo_numero && Primer_numero > Tercero_numero) {
+            System.out.println(Primer_numero + " es el mayor numero.");
+        } else if (Segundo_numero > Primer_numero && Segundo_numero > Tercero_numero) {
+            System.out.println(Segundo_numero + "  es el mayor numero");
+        } else {
+            System.out.println(Tercero_numero + "  es el mayoR numero");
+        }
     }
 
 }

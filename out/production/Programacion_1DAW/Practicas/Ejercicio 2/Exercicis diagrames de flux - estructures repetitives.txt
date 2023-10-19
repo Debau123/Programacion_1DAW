@@ -1,0 +1,28 @@
+NIVELL INICIAL
+
+1. Dibuixa un ordinograma d'un programa que mostre per pantalla els primers 20 números naturals (1, 2, 3,…., 20).
+2. Dibuixa un ordinograma d'un programa que mostre els números parells compresos entre el 1 i el 200. Per això utilitza un comptador i suma de 2 en 2.
+3. Dibuixa un ordinograma d'un programa que mostre els números parells compresos entre el 1 i el 200. Aquesta vegada, utilitza un comptador sumant d'1 en 1.
+4. Dibuixa un ordinograma d'un programa que mostre els números des de l'1 fins a un número N que s'introduirà per teclat.
+
+NIVELL INTERMEDI
+
+5. Dibuixa un ordinograma d'un programa que llegeix un nº positiu N i calcula i visualitza el factorial N! Sent el factorial:
+0! = 1
+1! = 1
+2! = 2*1
+3! = 3 * 2* 1
+N! = N * (N-1) * (N-2) * … * 1
+6. Dibuixa un ordinograma d'un programa que llegeix 100 números no nuls i després mostra un missatge de si heu llegit algun número negatiu o no.
+7. Dibuixa un ordinograma d'un programa que llegeix 100 números no nuls i després mostra un missatge indicant quants són positius i quants negatius.
+8. Dibuixa un ordinograma d'un programa que llegeix una seqüència de números no nuls fins que s'introdueix un 0, i després mostra si heu llegit algun nº negatiu, quants positius i quants negatius.
+9. Dibuixa un ordinograma d'un programa que calcula i escriu la suma i el producte dels 10 primers números naturals.
+
+NIVELL AVANÇAT (OPCIONALS)
+
+10. Dibuixa un ordinograma d'un programa que llegeix una seqüència de notes (amb valors que van de 0 a 10) que acaba amb el valor -1 i ens diu si hi ha alguna nota o no amb valor 10 o no.
+11. Dibuixa un ordinograma d'un programa que suma independentment els parells i els senars dels números compresos entre 100 i 200, i després mostra per pantalla les dues sumes.
+12. Dibuixa un ordinograma d'un programa que calcule el valor A elevat a B (A^B) sense fer-ne ús de l'operador de potència (^), sent A i B valors introduïts per teclat, i després mostre el resultat per pantalla.
+13. Dibuixa un ordinograma d'un programa on l'usuari pensa un número de l'1 al 100 i el ordinador intenta endevinar-ho. És a dir, l'ordinador anirà proposant números una vegada i una altra fins a endevinar-ho (l'usuari haurà d'indicar a l'ordinador si és més gran, més petit o igual al número
+que ha pensat).
+14. Dibuixa un ordinograma dun programa que donada una quantitat d'euros que l'usuari introdueix per teclat (múltiple de 5 €) mostrarà els bitllets de cada tipus que seran necessaris per assolir aquesta quantitat (utilitzant bitllets de 500, 200, 100, 50, 20, 10 i 5). Cal indicar el mínim de bitllets possible. Per exemple, si l'usuari introdueix 145 el programa indicarà que caldrà 1 bitllet de 100 €, 2 bitllets de 20 € i 1 bitllet de 5 € (no serà vàlid per exemple 29 bitllets de 5, que encara que sume 145 € no és el mínim nombre de bitllets possible).
