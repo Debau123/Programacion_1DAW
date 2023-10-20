@@ -1,9 +1,0 @@
-Exercicis introducció a JAVA
-1. Escriu un programa que done els “bon dia” .
-2. Escriu un programa que calcule i mostre l'àrea d'un quadrat de costat igual a 5.
-3. Escriu un programa que calcule l'àrea d'un quadrat el costat del qual s'introdueix per teclat.
-4. Escriu un programa que llegisca dos números, calcule i mostre el valor de les seues suma, resta, producte i divisió.
-5. Escriu un programa que pren com a dada d'entrada un número que correspon a la longitud d'un radi i ens escriu la longitud de la circumferència, l'àrea del cercle i el volum de l'esfera que corresponen amb aquest ràdio.
-6. Escriu un programa que donat el preu d'un article i el preu de venda real ens mostre el percentatge de descompte realitzat.
-7. Escriu un programa que llegisca un valor corresponent a una distància en milles marines i escriga la distància en metres. Sabent que una milla marina equival a 1.852 metres.
-
