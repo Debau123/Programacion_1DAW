@@ -44,8 +44,8 @@ public class Ejercicio_14 {
                 break;
 
         }
-        System.out.println("Para pagar "+billetes+" necesitaras "+billete_500+" billetes de 500,  "+billete_200+" billetes de 200,  "
-                +billete_100+" billetes de 100,  "+billete_50+" billetes de 50,  "+billete_20+" billetes de 20,  "+billete_10+" billetes de 10,  " +
-               +billete_5+ " billetes de 5.");
+        System.out.println("Para pagar "+ billetes +" necesitaras "+ billete_500 +" billetes de 500,  "+ billete_200 +" billetes de 200,  "
+                + billete_100 +" billetes de 100,  "+ billete_50 +" billetes de 50,  "+ billete_20 +" billetes de 20,  "+ billete_10 +" billetes de 10,  " +
+               + billete_5 + " billetes de 5.");
     }
 }
