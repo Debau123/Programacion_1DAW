@@ -1,6 +1,6 @@
 package Ejercicio_Bucles;
 
-import java.sql.SQLOutput;
+
 import java.util.Scanner;
 
 public class Ejercicio_21 {

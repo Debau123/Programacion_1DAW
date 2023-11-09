@@ -10,6 +10,7 @@ public class Ejercicio7 {
         int metro = 1852;
         int resultado = millas * metro;
         System.out.println("\n Las  "+ millas+" millas son  18"+ resultado+" metros");
+
 //dd
 
     }

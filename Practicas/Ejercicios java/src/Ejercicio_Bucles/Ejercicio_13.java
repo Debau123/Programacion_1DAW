@@ -24,7 +24,7 @@ public class Ejercicio_13 {
 
             respuesta= entrada.next();
 
-            if(!respuesta.equalsIgnoreCase("igual")){
+            if(respuesta.equalsIgnoreCase("igual")){
                 System.out.println("Lo hemos adivinado este es tu numero "+ intento+ " en "+intentos+" intentos");
                 break;
             } else if (respuesta.equalsIgnoreCase("mayor")) {
