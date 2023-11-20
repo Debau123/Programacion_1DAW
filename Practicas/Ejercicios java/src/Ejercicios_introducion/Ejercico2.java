@@ -11,5 +11,5 @@ public class Ejercico2 {
 
           int Area = Lado * Lado;
            System.out.println("El area es "+ Area);
-    }//dd
+    }
 }
