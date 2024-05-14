@@ -1,0 +1,10 @@
+Juan,Perez,8,7,9,6
+Maria,Gomez,7,8,6,9,8
+Pedro,Rodriguez,9,9,8,7
+Luis,Fernandez,6,7,8,9,7
+Ana,Martinez,8,8,7,7,9
+Carlos,Lopez,7,6,8,9,7
+Laura,Ruiz,9,7,8,9,8
+Sofia,Diaz,6,8,7,7
+David,Sanchez,8,9,7,6,9
+Elena,Garcia,7,8,9,7
